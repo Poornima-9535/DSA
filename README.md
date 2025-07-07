@@ -26,24 +26,9 @@ Welcome to my **DSA repository**! This space is dedicated to my journey of maste
 
 ## 📂 Folder Structure
 
-```bash
 DSA/
 │
-├── Arrays/
-│   ├── TwoSum.java
-│   └── KadaneAlgorithm.java
-│
-├── Strings/
-│   ├── PalindromeCheck.java
-│   └── LongestCommonPrefix.java
-│
-├── LinkedList/
-│   └── ReverseLinkedList.java
-│
-├── Trees/
-│   └── InorderTraversal.java
-│
-├── Graphs/
-│   └── BFS.java
+├── Sorting/
+│   └── BubbleSort.java
 │
 └── README.md
